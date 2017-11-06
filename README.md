@@ -9,7 +9,11 @@
 ```
 -->
 ```html
-<md-extra-icons></md-extra-icons>
+<iron-icon icon="mdextra:subscript"></iron-icon>
+<iron-icon icon="mdextra:superscript"></iron-icon>
+<iron-icon icon="mdextra:hexagon"></iron-icon>
+<iron-icon icon="mdextra:hexagon-multiple"></iron-icon>
+<iron-icon icon="mdextra:hexagon-outline"></iron-icon>
 ```
 
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/LRNWebComponents/md-extra-icons)
